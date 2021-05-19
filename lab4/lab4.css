@@ -1,0 +1,32 @@
+body{
+    background-image: url(wallpaper.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 300px ;
+}
+.border{
+    border: 2px;
+    border-style: dotted;
+}
+.green{
+    font-size: 25px;
+    color: green;
+}
+div{
+    position: absolute;
+}
+.list{
+    font-size: 60px;
+    color:darkgray;
+    left: 230px;
+
+}
+.aa{
+    position: absolute;;
+    left: 460px;
+
+}
+a{
+    color: red;
+    text-decoration: none;
+}
